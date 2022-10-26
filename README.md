@@ -14,7 +14,7 @@ Work through all these exercises. You edit this file with your answers for these
 
 ### Exercise 2.1
 * Create a TicketMachine object on the object bench.
-* 	Done.
+'Done'
 * Upon viewing its methods, `getBalance`, `getPrice`, `insertMoney`, `printTicket`.
 * 	Done.
 * Use `getPrice` method to view the value of the price of the tickets that was set when this object was created.
@@ -32,7 +32,7 @@ Work through all these exercises. You edit this file with your answers for these
 ### Exercise 2.3
 * Experiment with inserting different amounts of money before printing tickets.
 	* Do you notice anything strange about the machine’s behavior?
-	* 	The machine will show a 0 balance after I have printed a ticket, even if I have inserted more than the ticket value. 
+	'''The machine will show a 0 balance after I have printed a ticket, even if I have inserted more than the ticket value. 
 	* What happens if you insert too much money into the machine – do you receive any refund?
 	* 	I do not receive a refund. 
 	* What happens if you do not insert enough and then try to print a ticket?
